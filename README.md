@@ -3,7 +3,7 @@
 # Installation and Setup
 Clone the repository.
 ```
-https://github.com/a1ch3m1s7/Politico.git
+https://github.com/richiemounti/depression_sentiment_analysis.git
 
 ```
 
