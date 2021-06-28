@@ -25,15 +25,19 @@ If you need to set up install virtualenv:
 
 ## Activate the virtual environment
 Before you begin you will need to activate the corresponding environment
-```bash
+      ```
+       bash
         #linux
         source venv/bin/activate
-   ```
+      ```
   
-   ```bash
+   `  ``  
+        bash
         #windows
         venv/Scripts/activate
     ```
+    
+
 ## Install requirements
 ```
 pip install -r requirements.txt
