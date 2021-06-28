@@ -12,10 +12,16 @@ https://github.com/richiemounti/depression_sentiment_analysis.git
 python3 -m venv venv;
 ```
 
-If you need to install virtualenv:
-```
-pip install virtualenv venv
-```
+If you need to set up install virtualenv:
+ ```bash
+        #linux
+        virtualenv venv
+   ```
+    
+   ```bash
+        #windows
+        python -m virtualenv venv
+   `````
 
 ## Activate the virtual environment
 Before you begin you will need to activate the corresponding environment
